@@ -1,6 +1,5 @@
 package com.yan.li.rpn.utils;
 
-import com.yan.li.li.rpn.utils.RPNUtils;
 import org.junit.Assert;
 import org.junit.Test;
 

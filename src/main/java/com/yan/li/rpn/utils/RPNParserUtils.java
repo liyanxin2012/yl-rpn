@@ -1,7 +1,7 @@
-package com.yan.li.li.rpn.utils;
+package com.yan.li.rpn.utils;
 
 
-import com.yan.li.li.rpn.domain.RPNElementNode;
+import com.yan.li.rpn.domain.RPNElementNode;
 
 import java.util.ArrayList;
 import java.util.List;

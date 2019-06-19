@@ -1,4 +1,4 @@
-package com.yan.li.li.rpn.domain;
+package com.yan.li.rpn.domain;
 
 import java.io.Serializable;
 

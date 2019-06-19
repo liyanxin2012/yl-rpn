@@ -1,4 +1,4 @@
-package com.yan.li.li.rpn.consts;
+package com.yan.li.rpn.consts;
 
 import java.util.ArrayList;
 import java.util.List;

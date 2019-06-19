@@ -1,6 +1,5 @@
 package com.yan.li.rpn.consts;
 
-import com.yan.li.li.rpn.consts.RPNFunctions;
 import org.junit.Assert;
 import org.junit.Test;
 

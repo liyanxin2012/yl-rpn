@@ -1,12 +1,12 @@
-package com.yan.li.li.rpn.calculator;
+package com.yan.li.rpn.calculator;
 
-import com.yan.li.li.rpn.consts.RPNFunctions;
-import com.yan.li.li.rpn.consts.RPNOperators;
-import com.yan.li.li.rpn.domain.RPNElementNode;
-import com.yan.li.li.rpn.utils.RPNLogsUtils;
-import com.yan.li.li.rpn.utils.RPNParserUtils;
-import com.yan.li.li.rpn.utils.RPNRegexUtils;
-import com.yan.li.li.rpn.utils.RPNUtils;
+import com.yan.li.rpn.consts.RPNFunctions;
+import com.yan.li.rpn.consts.RPNOperators;
+import com.yan.li.rpn.domain.RPNElementNode;
+import com.yan.li.rpn.utils.RPNLogsUtils;
+import com.yan.li.rpn.utils.RPNParserUtils;
+import com.yan.li.rpn.utils.RPNRegexUtils;
+import com.yan.li.rpn.utils.RPNUtils;
 
 import java.math.BigDecimal;
 import java.util.Scanner;

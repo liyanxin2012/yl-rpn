@@ -1,6 +1,5 @@
 package com.yan.li.rpn.calculator;
 
-import com.yan.li.li.rpn.calculator.RPNCalculator;
 import org.junit.Test;
 
 /**
